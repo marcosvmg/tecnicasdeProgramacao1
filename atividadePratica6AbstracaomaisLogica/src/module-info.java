@@ -1,0 +1,2 @@
+module atividadePratica6AbstracaomaisLogica {
+}
